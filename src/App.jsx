@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
       <main className="font-bold text-gray-800 text-xl m-20">
-        Initial Setup
+        Initial Setup sdfljflj
       </main>
     </>
   );
